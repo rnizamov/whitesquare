@@ -1,0 +1,15 @@
+
+.idea
+node_modules
+impala64
+impala64.pub
+localhost.html
+gulp
+gulp.cmd
+etc
+.backup
+.dd
+.sass-cache
+.scssc
+*.sass-cache
+*sass-cache
